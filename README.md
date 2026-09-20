@@ -52,4 +52,6 @@ Or run `EbayTest.java` directly from your IDE as a **TestNG test**.
 
 ## Demo Video
 
-<video src="./AutomationTask.mp4" controls width="800"></video>
+https://github.com/user-attachments/assets/a5cd63dd-d827-412f-b9e8-59f8fda77063
+
+
